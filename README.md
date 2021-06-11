@@ -25,7 +25,7 @@ Will be adding this soon.
 #### VHSIM.m
 Based off of Bill Cobb's `VHSIM.m`. This is a 2 DoF model. An updated version with the *Roll* DoF will be available soon.
 
-![Transient Response GUI](VHsim.PNG)
+![Transient Response GUI](VHsim_1.PNG)
 
 
 ^^I don't own the FSAE TTC Tyre test data. The tests were conducted by Calspan in collaboration with TTC and all the data is available for free on http://fsaettc.org
