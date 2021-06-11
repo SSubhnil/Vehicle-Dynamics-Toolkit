@@ -17,7 +17,7 @@ This is 4 wheel model with 3 DoF(s) also applying to each tyre. It runs on Pacej
 ![Constant Radius Test Customizable GUI](Nonlin52.PNG)
 
 This GUI is based off of Bill Cobb's work^ on VD and the original `nonlin.m` which is a simple bicycle model. See Race Car Vehicle Dynamics for the equations. 
-
+ 
 #### Constant Velocity Sim
 Will be adding this soon.
 
