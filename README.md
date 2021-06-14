@@ -12,7 +12,7 @@ This is a GUI that simulates the **ISO 4138** Constant Radius Test on a 3 DoF ve
 2. About Z axis - Yaw
 3. About X axis - Roll
 
-This is 4 wheel model with 3 DoF(s) also applying to each tyre. It runs on Pacejka's 5.2 Tyre model (hence the '52'). Please note that the user will have to fit their own 5.2 model of the tyre they wish to use, the fitting can be done in `tire_data_52` folder. The instructions, code and a sample FSAE TTC tyre data is available there^^.
+This is 4 wheel model with 3 DoF(s) also applying to each tyre. It runs on Pacejka's Magic Formula 5.2 Tyre model (hence the '52'). Please note that the user will have to fit their own MF 5.2 model of the tyre they wish to use, the fitting can be done in `tire_data_52` folder. The instructions, code and a sample FSAE TTC tyre data is available there^^.
 
 ![Constant Radius Test Customizable GUI](Nonlin52.PNG)
 
